@@ -195,36 +195,29 @@ p {
 		height: 42px; 
 	}
    }
-   }
 
 
-
-
-/* Не работает!!!!!!*/
 
 @media (max-width: 1024px) {
 	.content {
 		width: 900px;
 		margin: auto;
 	}
-	.table {
-		justify-content: space-between;
-	}
 	.box-colon {
 		width: 300px
 	}
 	
 	.daynn {
-	width: 40px;
-	height: 42px; 
+		width: 40px;
+		height: 42px; 
 	}
 	
 	.dayn {
-	width: 40px;
-	height: 42px; 
+		width: 40px;
+		height: 42px; 
 	}
    }
-   }
+
 
 @media (max-width: 768px) {
 	.content {
@@ -239,38 +232,36 @@ p {
 	}
 	
 	.daynn {
-	width: 40px;
-	height: 42px; 
+		width: 40px;
+		height: 42px; 
 	}
 	
 	.dayn {
-	width: 40px;
-	height: 42px; 
+		width: 40px;
+		height: 42px; 
 	}
-   }
    }
 
 @media (max-width: 575px) {
 	.content {
-		width: 400px;
+		width: 320px;
 		margin: auto;
 	}
 	.table {
-		justify-content: space-between;
+		justify-content: center;
 	}
 	.box-colon {
-		width: 300px
+		width: 315px
 	}
 	
 	.daynn {
-	width: 40px;
-	height: 42px; 
+		width: 44px;
+		height: 42px; 
 	}
 	
 	.dayn {
-	width: 40px;
-	height: 42px; 
+		width: 44px;
+		height: 42px; 
 	}
-   }
    }
 
